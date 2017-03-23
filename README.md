@@ -14,7 +14,7 @@ LEVEL UP YOUR ENVIRONMENT
 - [ ] Your own custom Atom package is built and linked from the artifact.
 
 [Link to Dot Files](about:blank)  
-[link to open source](https://github.com/HabitRPG/habitica/issues/8540)  
+[Link to open source](https://github.com/HabitRPG/habitica/issues/8540)  
 [Link to Industry Confrences](https://gist.github.com/silentsoundz/130df391debef7b75a2e2411c859b36a)   
 [Link to interesting people](https://gist.github.com/silentsoundz/f7ee6023535b5b9627cedaa9c1732ad5)   
 [Link to Meetups](https://gist.github.com/silentsoundz/d0fbdb87c81a7c6255f5b3af1eed8a49)   
