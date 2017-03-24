@@ -18,5 +18,5 @@ LEVEL UP YOUR ENVIRONMENT
 [Link to Industry Confrences](https://gist.github.com/silentsoundz/130df391debef7b75a2e2411c859b36a)   
 [Link to interesting people](https://gist.github.com/silentsoundz/f7ee6023535b5b9627cedaa9c1732ad5)   
 [Link to Meetups](https://gist.github.com/silentsoundz/d0fbdb87c81a7c6255f5b3af1eed8a49)   
-[Link to dotfiles](https://github.com/silentsoundz/dotfiles)
-[Link to Atom Pachages](https://gist.github.com/silentsoundz/118771cf059d21d7f85e023bfb1d53ad)
+[Link to dotfiles](https://github.com/silentsoundz/dotfiles)  
+[Link to Atom Pachages](https://gist.github.com/silentsoundz/118771cf059d21d7f85e023bfb1d53ad)  
