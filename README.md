@@ -20,3 +20,4 @@ LEVEL UP YOUR ENVIRONMENT
 [Link to Meetups](https://gist.github.com/silentsoundz/d0fbdb87c81a7c6255f5b3af1eed8a49)   
 [Link to dotfiles](https://github.com/silentsoundz/dotfiles)  
 [Link to favorite plugins list](https://gist.github.com/silentsoundz/118771cf059d21d7f85e023bfb1d53ad)  
+[Link to Atom packges]("https://gist.github.com/silentsoundz/118771cf059d21d7f85e023bfb1d53ad.js")
