@@ -11,7 +11,7 @@ LEVEL UP YOUR ENVIRONMENT
 - [x] The artifact produced is properly licensed, preferably with the MIT license.
 - [ ] Stretch
 
-- [ ] Your own custom Atom package is built and linked from the artifact.
+- [x] Your own custom Atom package is built and linked from the artifact.
 
 [Link to Dot Files](about:blank)  
 [Link to open source](https://github.com/HabitRPG/habitica/issues/8540)  
